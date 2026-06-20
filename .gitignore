@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# SQLite databases
+*.db
+
+# Local environment secrets
+.env
+.env.local
+
+# Pytest cache
+.pytest_cache/
+
+# IDE configurations
+.vscode/
+.idea/
+.gemini/
+
