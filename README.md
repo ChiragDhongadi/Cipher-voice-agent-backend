@@ -8,6 +8,9 @@ Cipher is a conversational AI Technical Interviewer that calls candidates, greet
 
 This FastAPI backend provides endpoints for retrieving candidate profile details, evaluating screening responses, checking interview slot availability, and scheduling interviews.
 
+<img width="1684" height="934" alt="image" src="https://github.com/user-attachments/assets/e8b56543-ae3d-4976-ac03-8e71c0c025a5" />
+
+
 ---
 
 ## Tech Stack
